@@ -1,19 +1,4 @@
 body {
   margin: 0;
-}
-
-.flex {
-  display: flex;
-}
-
-.flex.full-height {
-  height: 100vh;
-}
-
-.flex.column {
-  flex-direction: column;
-}
-
-.flex.row {
-  flex-direction: row;
+  background-color: #f2f2f2;
 }
